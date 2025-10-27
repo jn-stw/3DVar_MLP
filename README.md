@@ -13,7 +13,7 @@ _A small, reproducible demo with an optional ML “predicted-increments” varia
 
 - **`code_report.ipynb`** — Main notebook: simulation, 3D-Var, experiments (full vs. partial observations, noise levels, assimilation strides), RMSE plots, and the optional ML-hybrid.
 - **`requirements.txt`** — Minimal dependencies for a clean run.
-- **`figures/`** — Saved plots if you choose to export them
+- **`presentation.pdf`** — Presentation with further mathematical details.
 
 ---
 
